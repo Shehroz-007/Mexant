@@ -93,7 +93,7 @@ nav ul a:hover {
 
 .hero-section {
     height: 650px;
-    background: url(/img/slide-01.jpg) center /cover no-repeat;
+    background: url(img/slide-01.jpg) center /cover no-repeat;
 }
 @keyframes fadeInRight {
   0% {
@@ -253,7 +253,7 @@ nav ul a:hover {
     align-items: center;
     justify-content: center;
     height: 200px;
-    background: url(/img/cta-bg.jpg) center /cover no-repeat;
+    background: url(img/cta-bg.jpg) center /cover no-repeat;
 }
 
 .cta-section h4 {
@@ -405,7 +405,7 @@ nav ul a:hover {
 .financial-plan-section {
     display: flex;
     height: 600px;
-    background: url(/img/calculator-bg.jpg) center center /cover no-repeat;
+    background: url(img/calculator-bg.jpg) center center /cover no-repeat;
     margin-bottom: 30px;
 }
 
